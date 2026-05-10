@@ -12,18 +12,14 @@ paginate = 10
   ShowPostNavLinks = true
   defaultTheme = "auto"
 
-[params.homeInfoParams]
-  Title = "Hi, I'm Samet 👋"
-  Content = """
-I've been working on autonomous systems since 2015 — from the engineering trenches to ecosystem strategy.
-
-Today I run Open Autonomy Advisors GmbH in Zürich, working with companies building serious mobility and robotics technology. I take on a small number of fractional engagements where I can genuinely move the needle.
-
-I'm technical enough to earn the trust of engineers, and strategic enough to know where most things go wrong before they do. A decade in this industry gave me a deep pattern recognition skill.
-
-Open source and community aren't just buzzwords for me. They shaped my technology belief system of how this industry actually should move forward.
-
-Based in Zürich and Istanbul."""
+[params.profileMode]
+  enabled = true
+  title = "Samet Kütük"
+  subtitle = "I've been working on autonomous systems since 2015 — from the engineering trenches to ecosystem strategy. Today I run Open Autonomy Advisors GmbH in Zürich, working with companies building serious mobility and robotics technology. I take on a small number of fractional engagements where I can genuinely move the needle.\n\nI'm technical enough to earn the trust of engineers, and strategic enough to know where most things go wrong before they do. A decade in this industry gave me a deep pattern recognition skill.\n\nOpen source and community aren't just buzzwords for me. They shaped my technology belief system of how this industry actually should move forward.\n\nBased in Zürich and Istanbul."
+  imageUrl = "/sametkutuk-photo.jpg"
+  imageTitle = "Samet Kütük"
+  imageWidth = 120
+  imageHeight = 120
 
 [[params.socialIcons]]
   name = "linkedin"
