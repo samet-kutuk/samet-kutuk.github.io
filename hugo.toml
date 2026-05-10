@@ -1,0 +1,42 @@
+baseURL = "https://samet-kutuk.github.io/"
+languageCode = "en-us"
+title = "Samet Kütük"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  author = "Samet Kütük"
+  description = "Autonomous Vehicles · Advisory · Zürich"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  defaultTheme = "light"
+
+[params.profileMode]
+  enabled = true
+  title = "Samet Kütük"
+  subtitle = "Autonomous Vehicles · Advisory · Zürich"
+  imageUrl = "https://via.placeholder.com/150"
+  imageTitle = "Samet Kütük"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/samet-kutuk"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:samet@openautonomy.ch"
+
+[menu]
+  [[menu.main]]
+    name = "Professional"
+    url = "/tags/professional/"
+    weight = 1
+  [[menu.main]]
+    name = "Personal"
+    url = "/tags/personal/"
+    weight = 2
+  [[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 3
