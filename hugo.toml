@@ -6,22 +6,28 @@ paginate = 10
 
 [params]
   author = "Samet Kütük"
-  description = "Autonomous Vehicles · Advisory · Zürich"
+  description = "ADAS · Autonomous Driving · Robotics · Open Source · Zürich · Istanbul"
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
-  defaultTheme = "light"
+  defaultTheme = "auto"
 
-[params.profileMode]
-  enabled = true
-  title = "Samet Kütük"
-  subtitle = "Autonomous Vehicles · Advisory · Zürich"
-  imageUrl = "https://via.placeholder.com/150"
-  imageTitle = "Samet Kütük"
+[params.homeInfoParams]
+  Title = "Hi, I'm Samet 👋"
+  Content = """
+I've been working on autonomous systems since 2015 — from the engineering trenches to ecosystem strategy.
+
+Today I run Open Autonomy Advisors GmbH in Zürich, working with companies building serious mobility and robotics technology. I take on a small number of fractional engagements where I can genuinely move the needle.
+
+I'm technical enough to earn the trust of engineers, and strategic enough to know where most things go wrong before they do. A decade in this industry gave me a deep pattern recognition skill.
+
+Open source and community aren't just buzzwords for me. They shaped my technology belief system of how this industry actually should move forward.
+
+Based in Zürich and Istanbul."""
 
 [[params.socialIcons]]
   name = "linkedin"
-  url = "https://linkedin.com/in/samet-kutuk"
+  url = "https://linkedin.com/in/sametkutuk"
 
 [[params.socialIcons]]
   name = "email"
