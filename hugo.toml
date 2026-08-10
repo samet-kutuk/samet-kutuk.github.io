@@ -11,43 +11,47 @@ paginate = 10
   ShowShareButtons = false
   ShowPostNavLinks = true
   defaultTheme = "auto"
+  hideFooter = false
 
-[params.profileMode]
-  enabled = true
-  title = "Samet Kütük"
-  subtitle = ""
-I've been working on autonomous systems since 2015 — from the engineering trenches to ecosystem strategy.
+[markup.goldmark.renderer]
+  unsafe = true
 
-Today I run Open Autonomy Advisors GmbH in Zürich, working with companies building serious mobility and robotics technology. I take on a small number of fractional engagements where I can genuinely move the needle.
+[params.homeInfoParams]
+  Title = ""
+  Content = """<div style="display:flex; align-items:flex-start; gap:2rem; flex-wrap:wrap;">
+<img src="/sametkutuk-photo.jpg" alt="Samet Kütük" style="width:200px; height:240px; object-fit:cover; object-position:top; border-radius:8px; flex-shrink:0;">
+<div style="flex:1; min-width:220px;">
+<h2 style="margin-top:0; margin-bottom:1rem; font-size:1.8rem;">Hi, I'm Samet 👋</h2>
+<p>I've been working on autonomous systems since 2015 — from the engineering trenches to ecosystem strategy.</p>
+<p style="margin-top:0.8rem;">Today I run <strong>Open Autonomy Advisors GmbH</strong> in Zürich, working with companies building serious mobility and robotics technology. I take on a small number of fractional engagements where I can genuinely move the needle.</p>
+<p style="margin-top:0.8rem;">I'm technical enough to earn the trust of engineers, and strategic enough to know where most things go wrong before they do. A decade in this industry gave me a deep pattern recognition skill.</p>
+<p style="margin-top:0.8rem;">Open source and community aren't just buzzwords for me. They shaped my technology belief system of how this industry actually should move forward.</p>
+<p style="margin-top:0.8rem;">Based in Zürich and Istanbul.</p>
+<div style="display:flex; gap:1rem; margin-top:1.2rem; align-items:center;">
+<a href="https://linkedin.com/in/sametkutuk" target="_blank" style="color:inherit; opacity:0.7; transition:opacity 0.2s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.7">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+</a>
+<a href="mailto:samet@openautonomy.ch" style="color:inherit; opacity:0.7; transition:opacity 0.2s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.7">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+</a>
+</div>
+</div>
+</div>"""
 
-I'm technical enough to earn the trust of engineers, and strategic enough to know where most things go wrong before they do. A decade in this industry gave me a deep pattern recognition skill.
+#[[params.socialIcons]]
+#  name = "linkedin"
+#  url = "https://linkedin.com/in/sametkutuk"
 
-Open source and community aren't just buzzwords for me. They shaped my technology belief system of how this industry actually should move forward.
-
-Based in Zürich and Istanbul.""
-  imageUrl = "/sametkutuk-photo.jpg"
-  imageTitle = "Samet Kütük"
-  imageWidth = 120
-  imageHeight = 120
-
-[[params.socialIcons]]
-  name = "linkedin"
-  url = "https://linkedin.com/in/sametkutuk"
-
-[[params.socialIcons]]
-  name = "email"
-  url = "mailto:samet@openautonomy.ch"
+#[[params.socialIcons]]
+#  name = "email"
+#  url = "mailto:samet@openautonomy.ch"
 
 [menu]
   [[menu.main]]
-    name = "Professional"
+    name = "Posts"
     url = "/tags/professional/"
     weight = 1
   [[menu.main]]
-    name = "Personal"
-    url = "/tags/personal/"
-    weight = 2
-  [[menu.main]]
     name = "Resources"
     url = "/resources/"
-    weight = 3
+    weight = 2
