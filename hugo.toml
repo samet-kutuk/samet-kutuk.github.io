@@ -45,13 +45,3 @@ paginate = 10
 #[[params.socialIcons]]
 #  name = "email"
 #  url = "mailto:samet@openautonomy.ch"
-
-[menu]
-  [[menu.main]]
-    name = "Posts"
-    url = "/tags/professional/"
-    weight = 1
-  [[menu.main]]
-    name = "Resources"
-    url = "/resources/"
-    weight = 2

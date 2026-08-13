@@ -1,20 +1,14 @@
 ---
 title: Founded Open Autonomy Advisors GmbH
-date: 2024-01-01
+date: 2025-04-02
 tags:
   - professional
 summary: Established my independent advisory firm in Zürich, focused on helping AV and robotics companies navigate technology, strategy, and ecosystem development.
 draft: false
-cover:
-  image: image1.jpg
-  alt: "Open Autonomy Advisors"
-  caption: "Zürich, Switzerland"
-  relative: true
-  hiddenInList: true
 ---
 ## The Beginning
 
-In 2023 I established **Open Autonomy Advisors GmbH** in Zürich — my vehicle for fractional advisory, ecosystem strategy, and business development work across the autonomous vehicle and robotics industry.
+In 2024 I established **Open Autonomy Advisors GmbH** in Zürich — my vehicle for fractional advisory, ecosystem strategy, and business development work across the autonomous vehicle and robotics industry.
 
 This wasn't a spontaneous decision. It was the result of nearly a decade of hands-on work in the AV industry across Turkey, Japan, and Switzerland, and a growing conviction that the ecosystem needed a different kind of advisor — one who had actually built things, not just observed them.
 
@@ -36,8 +30,6 @@ Open Autonomy Advisors works with a small number of clients at any given time. T
 ## Why Zürich
 
 Switzerland was a deliberate choice. The density of serious technical work happening here — at ETH, at the Swiss Transit Lab, across the Innosuisse-funded project landscape — is genuinely rare in Europe.
-
-![A second image showing context](image2.jpg)
 
 Zürich also sits at a useful intersection: close enough to German engineering culture, connected to the broader European regulatory environment, and internationally minded enough to work across borders without friction.
 

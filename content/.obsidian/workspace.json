@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a8cae307db00641e",
+        "id": "e54c727746298d59",
         "type": "tabs",
         "children": [
           {
-            "id": "55d6988fba8fad1c",
+            "id": "014169edf9ba63af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/founded-open-autonomy-advisors/agent-v1-instructions.md",
+                "file": "posts/open-ad-kit-meetup-arm-san-jose/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "agent-v1-instructions"
+              "title": "index"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,19 +185,50 @@
       "bases:Create new base": false
     }
   },
-  "active": "55d6988fba8fad1c",
+  "active": "014169edf9ba63af",
   "lastOpenFiles": [
+    "posts/open-ad-kit-live-soafee/index.md",
+    "posts/ces-2026-wrap-up/index.md",
+    "posts/open-ad-kit-meetup-arm-san-jose/cover.jpg",
+    "posts/open-ad-kit-meetup-arm-san-jose/IMG-20240828-WA0026.jpg",
+    "posts/elrob-2026-experience/index.md",
+    "posts/icra-2026-not-comfort-zone/index.md",
+    "posts/ces-2026-wrap-up/cover.JPG",
+    "posts/ces-2026-wrap-up/DSC03764.JPG",
+    "posts/icra-2026-not-comfort-zone/cover.JPG",
+    "posts/icra-2026-not-comfort-zone/square.JPG",
+    "posts/fixposition-ecosystem-ambassador/index.md",
+    "posts/think-autonomous-interview/index.md",
+    "posts/elrob-2026-experience/cover.jpg",
+    "posts/elrob-2026-experience/composed.jpg",
+    "posts/autoware-meetup-roscon-singapore/index.md",
+    "posts/think-autonomous-interview/cover.jpg",
+    "posts/autoware-linkedin-10000-followers/index.md",
+    "posts/autoware-meetup-roscon-singapore/cover.jpg",
+    "posts/saam-day-zurich-autoware/index.md",
+    "posts/autoware-cafe-podcast-launch/index.md",
+    "posts/autoware-cafe-6-autonomous-racing/index.md",
+    "posts/autoware-cafe-5-e2e-deep-dive/index.md",
+    "posts/autoware-cafe-4-autodrive/index.md",
+    "posts/autoware-cafe-3-universe-core/index.md",
+    "posts/autoware-cafe-2-drivers-license/index.md",
+    "posts/automated-mobility-summit-zurich/index.md",
     "posts/founded-open-autonomy-advisors/index.md",
-    "posts/founded-open-autonomy-advisors/agent-v1-instructions.md",
-    "Untitled",
-    "posts/founded-open-autonomy-advisors/image2.jpg",
-    "posts/founded-open-autonomy-advisors/image1.jpg",
-    "posts/founded-open-autonomy-advisors/SK_1.jpg",
-    "posts/founded-open-autonomy-advisors/SK_2.jpg",
-    "posts/founded-open-autonomy.md.md",
+    "posts/iaa-mobility-tum-edgar-livestream/index.md",
+    "posts/treeze-korea-member-autoware/index.md",
+    "posts/tokyo-stuttgart-zurich-detroit-tour/index.md",
+    "posts/stepping-away-from-leo-drive/index.md",
+    "posts/Started to work with Fixposition/index.md",
+    "posts/pave-europe-conference-brussels/index.md",
+    "posts/open-autonomy-advisors-saam-member/index.md",
+    "posts/open-ad-kit-meetup-arm-san-jose/index.md",
+    "Untitled 1",
+    "_templates",
+    "posts/Started to work with Fixposition",
+    "_templates",
+    "Untitled/Untitled.canvas",
+    "Untitled.base",
     "posts/founded-open-autonomy-advisors",
-    "posts/founder.md",
-    "Untitled.md",
     "posts"
   ]
 }
